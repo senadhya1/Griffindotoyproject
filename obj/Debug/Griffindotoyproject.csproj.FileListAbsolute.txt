@@ -1,0 +1,13 @@
+C:\Users\senur\Downloads\griffindo\Griffindotoyproject\Griffindotoyproject\bin\Debug\Griffindotoyproject.exe.config
+C:\Users\senur\Downloads\griffindo\Griffindotoyproject\Griffindotoyproject\bin\Debug\Griffindotoyproject.exe
+C:\Users\senur\Downloads\griffindo\Griffindotoyproject\Griffindotoyproject\bin\Debug\Griffindotoyproject.pdb
+C:\Users\senur\Downloads\griffindo\Griffindotoyproject\Griffindotoyproject\obj\Debug\Griffindotoyproject.csprojResolveAssemblyReference.cache
+C:\Users\senur\Downloads\griffindo\Griffindotoyproject\Griffindotoyproject\obj\Debug\Griffindotoyproject.Form1.resources
+C:\Users\senur\Downloads\griffindo\Griffindotoyproject\Griffindotoyproject\obj\Debug\Griffindotoyproject.Properties.Resources.resources
+C:\Users\senur\Downloads\griffindo\Griffindotoyproject\Griffindotoyproject\obj\Debug\Griffindotoyproject.csproj.GenerateResource.Cache
+C:\Users\senur\Downloads\griffindo\Griffindotoyproject\Griffindotoyproject\obj\Debug\Griffindotoyproject.exe
+C:\Users\senur\Downloads\griffindo\Griffindotoyproject\Griffindotoyproject\obj\Debug\Griffindotoyproject.pdb
+C:\Users\senur\Downloads\griffindo\Griffindotoyproject\Griffindotoyproject\obj\Debug\Griffindotoyproject.Adminmenu.resources
+C:\Users\senur\Downloads\griffindo\Griffindotoyproject\Griffindotoyproject\obj\Debug\Griffindotoyproject.Employeeregistration.resources
+C:\Users\senur\Downloads\griffindo\Griffindotoyproject\Griffindotoyproject\obj\Debug\Griffindotoyproject.Employeemenu.resources
+C:\Users\senur\Downloads\griffindo\Griffindotoyproject\Griffindotoyproject\obj\Debug\Griffindotoyproject.LeaveManagement.resources
